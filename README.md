@@ -1,7 +1,7 @@
-# Sensores   
+# ✔🔥Sensores   
 
-## 2.6 Sensor de temperatura
-### 🔥 Conclusión
+##  🌡2.6 Sensor de temperatura
+### Conclusión
 
  Como se sabe los sensores de temperatura se utilizan en diversas aplicaciones tales como aplicaciones para la elaboración de alimentos, climatización para control ambiental, dispositivos médicos, manipulación de productos químicos y control de dispositivos en el sector automotriz (p. ej., refrigerantes, ingreso de aire, temperaturas del cabezal de cilindro, etc.). Los sensores de temperatura se utilizan para medir el calor para asegurar que el proceso se encuentre, o bien dentro de un cierto rango, lo que proporciona seguridad en el uso de la aplicación, o bien en cumplimiento de una condición obligatoria cuando se trata de calor extremo, riesgos, o puntos de medición inaccesibles. 
 
