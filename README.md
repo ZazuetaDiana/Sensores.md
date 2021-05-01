@@ -18,6 +18,8 @@ La razón por la que el sensor ultrasónico es de los instrumentos más confiabl
 
 El funcionamiento del sensor ultrasónico es ideal para muchos tipos de industrias, y existen muchos más ejemplos además de los mencionados. Esta tecnología es, sin duda, cuenta con las características ideales para asegurar la calidad, seguridad y flexibilidad de proyectos industriales a gran escala.
 
+![Video de simulación del sensor ](https://www.loom.com/share/0e6e19f2f53b4670aaf23a5209136261)
+
 -----
 
 ##  🌡2.6 Sensor de temperatura
@@ -39,3 +41,5 @@ Para las industrias automotriz y de metales
 - Laminado
 - Productos horneados
 - etc.
+
+![Video de simulación del sensor ](https://www.loom.com/share/5925276c3834490dac281218ec1f7b8b)
