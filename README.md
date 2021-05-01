@@ -42,7 +42,7 @@ Para las industrias automotriz y de metales
 
 ----
 
-## 2.7 Sensor de PIR
+## 🧍🏻‍♀️🐶2.7 Sensor de PIR
 ### Conclusión
 Los detectores PIR (Passive Infrared) o Pasivo Infrarrojo, reaccionan sólo ante determinadas fuentes de energía tales como el calor del cuerpo humano o animales. Básicamente reciben la variación de las radiaciones infrarrojas del medio ambiente que cubre. Es llamado pasivo debido a que no emite radiaciones, sino que las recibe. Estos captan la presencia detectando la diferencia entre el calor emitido por el cuerpo humano y el espacio alrededor.
 
