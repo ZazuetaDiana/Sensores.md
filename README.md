@@ -40,3 +40,30 @@ Para las industrias automotriz y de metales
 - Productos horneados
 - etc.
 
+----
+
+## 2.7 Sensor de PIR
+### Conclusión
+Los detectores PIR (Passive Infrared) o Pasivo Infrarrojo, reaccionan sólo ante determinadas fuentes de energía tales como el calor del cuerpo humano o animales. Básicamente reciben la variación de las radiaciones infrarrojas del medio ambiente que cubre. Es llamado pasivo debido a que no emite radiaciones, sino que las recibe. Estos captan la presencia detectando la diferencia entre el calor emitido por el cuerpo humano y el espacio alrededor.
+
+Cuando se instalan los sensores infrarrojo (PIR) y se lo energiza por primera vez, este comenzara a “acostumbrarse” a la radiación infrarroja del ambiente (todos los cuerpos que están a una temperatura superior a 0° Kelvin, emiten radiación infrarroja negativa; esta radiación infrarroja aumenta si aumenta la temperatura del cuerpo en cuestión. Es decir, que recibe la información infrarroja de una pared, el piso, los muebles, etc). Una vez que se mantiene estable, si un intruso ingresa al recinto se experimentará un cambio en la radiación infrarroja del ambiente y el PIR dará una condición de alarma. Una vez realizada la calibración y ajuste del detector, el led de prueba deberá quedar apagado por norma de instalación.
+
+Con objeto de lograr total confiabilidad, esta tecnología integra además, un filtro especial de luz que elimina toda posibilidad de falsas detecciones causadas por la luz visible (rayos solares), así como circuitos especiales que dan mayor inmunidad a ondas de radio frecuencia, así es como funcionan los sensores de movimiento.
+
+**Aplicaciones**
+Los sensores PIR son ampliamente usados en sistemas de seguridad y en detección de intrusos en entornos domésticos y comerciales, ya que se pueden instalar en cualquier punto de entrada potencial (puertas y ventanas) y avisar de la presencia de los intrusos antes de que lleguen al sensor y lo puedan sabotear. Se destacan por la ventaja de ser económicos, fáciles de usar y fiables en la mayoría de los casos. 
+
+- Control de iluminación
+- Aplicaciones inteligentes para el hogar y el IO
+- Detección de movimiento usando el sensor PIR
+- Sistema de apertura automática de puertas
+- Sistema de alarma de seguridad basado en el sensor PIR
+- Robot de detección humana que utiliza un sensor PIR
+- Sensor PIR basado en el control de motor a pasos
+- Impresoras multifuncionales
+- Sistemas de videoconferencia
+- Señalización digital
+- Máquina expendedora
+- Interruptor de activación para pantallas y paneles LCD
+- Alimentador de mascotas
+- etc.
