@@ -14,7 +14,7 @@ La razón por la que el sensor ultrasónico es de los instrumentos más confiabl
 
 - Seguridad en plataformas: la industria de la construcción suele utilizar grúas, eslingas de gran tamaño y plataformas de movimiento aéreo. Los sensores ultrasónicos ayudan a mantener un tráfico eficiente entre plataformas, manteniendo la seguridad en lugar de trabajo.
 
-Detección de autos: este es tal vez el ejemplo de uso de sensores ultrasónicos más claro y común, no solo para el sector industrial. Los estacionamientos públicos utilizan sistemas de pluma para la entrada y salida de vehículos. Los sensores ultrasónicos se encargan de evitar que una pluma baje sobre un coche mientras este está debajo.
+- Detección de autos: este es tal vez el ejemplo de uso de sensores ultrasónicos más claro y común, no solo para el sector industrial. Los estacionamientos públicos utilizan sistemas de pluma para la entrada y salida de vehículos. Los sensores ultrasónicos se encargan de evitar que una pluma baje sobre un coche mientras este está debajo.
 
 El funcionamiento del sensor ultrasónico es ideal para muchos tipos de industrias, y existen muchos más ejemplos además de los mencionados. Esta tecnología es, sin duda, cuenta con las características ideales para asegurar la calidad, seguridad y flexibilidad de proyectos industriales a gran escala.
 
